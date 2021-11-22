@@ -1,0 +1,104 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Performing Login Operation: Launch the application and Verify the Url",
+    "children" : [ {
+      "name" : "Given I Launch the application",
+      "uid" : "55a63ca0a96f66f7",
+      "parentUid" : "5f192f1711fbfa700804242715333db6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637609204180,
+        "stop" : 1637609204227,
+        "duration" : 47
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Then Verify the Url of HomePage",
+      "uid" : "55b4a5bbb0af56e",
+      "parentUid" : "5f192f1711fbfa700804242715333db6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637609204227,
+        "stop" : 1637609210560,
+        "duration" : 6333
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "",
+      "uid" : "f70c81b181539097",
+      "parentUid" : "5f192f1711fbfa700804242715333db6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637609210560,
+        "stop" : 1637609210560,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "5f192f1711fbfa700804242715333db6"
+  }, {
+    "name" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url",
+    "children" : [ {
+      "name" : "Given I Launch the application",
+      "uid" : "b70e794f668b3db6",
+      "parentUid" : "b14df0fb5652c2ef1a212c5d3a04600b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637609210568,
+        "stop" : 1637609210570,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "When I Click on Get Started Button",
+      "uid" : "1e92462049cb1241",
+      "parentUid" : "b14df0fb5652c2ef1a212c5d3a04600b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637609210570,
+        "stop" : 1637609212929,
+        "duration" : 2359
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Then Verify the Url of Get Started Page",
+      "uid" : "bbab90344f4d99c",
+      "parentUid" : "b14df0fb5652c2ef1a212c5d3a04600b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637609212929,
+        "stop" : 1637609212941,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "",
+      "uid" : "bfb72efbd6b99459",
+      "parentUid" : "b14df0fb5652c2ef1a212c5d3a04600b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637609212941,
+        "stop" : 1637609212941,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "b14df0fb5652c2ef1a212c5d3a04600b"
+  } ]
+}

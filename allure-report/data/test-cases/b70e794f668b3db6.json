@@ -1,0 +1,89 @@
+{
+  "uid" : "b70e794f668b3db6",
+  "name" : "Given I Launch the application",
+  "fullName" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url.Given I Launch the application",
+  "historyId" : "81b920ea68d613448a9e2c1d5f101e0c",
+  "time" : {
+    "start" : 1637609210568,
+    "stop" : 1637609210570,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1637609210568,
+        "stop" : 0,
+        "duration" : -1637609210568
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7a7f2db09c8b9c53",
+        "name" : "Request",
+        "source" : "7a7f2db09c8b9c53.json",
+        "type" : "application/json",
+        "size" : 50
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I Launch the application"
+  }, {
+    "name" : "package",
+    "value" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b70e794f668b3db6.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

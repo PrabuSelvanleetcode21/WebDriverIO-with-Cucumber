@@ -1,0 +1,56 @@
+{
+  "uid" : "1d9512d414abd506",
+  "name" : "",
+  "fullName" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url.",
+  "historyId" : "d271935c8371e6eda4398c73949430ee",
+  "time" : {
+    "start" : 1637609210567,
+    "stop" : 1637609210568,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d9512d414abd506.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

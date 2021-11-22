@@ -1,0 +1,96 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Given I Launch the application",
+    "uid" : "55a63ca0a96f66f7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637609204180,
+      "stop" : 1637609204227,
+      "duration" : 47
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.55" ]
+  }, {
+    "name" : "Then Verify the Url of HomePage",
+    "uid" : "55b4a5bbb0af56e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637609204227,
+      "stop" : 1637609210560,
+      "duration" : 6333
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.55" ]
+  }, {
+    "name" : "",
+    "uid" : "f70c81b181539097",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637609210560,
+      "stop" : 1637609210560,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.55" ]
+  }, {
+    "name" : "Given I Launch the application",
+    "uid" : "b70e794f668b3db6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637609210568,
+      "stop" : 1637609210570,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.55" ]
+  }, {
+    "name" : "When I Click on Get Started Button",
+    "uid" : "1e92462049cb1241",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637609210570,
+      "stop" : 1637609212929,
+      "duration" : 2359
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.55" ]
+  }, {
+    "name" : "Then Verify the Url of Get Started Page",
+    "uid" : "bbab90344f4d99c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637609212929,
+      "stop" : 1637609212941,
+      "duration" : 12
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.55" ]
+  }, {
+    "name" : "",
+    "uid" : "bfb72efbd6b99459",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637609212941,
+      "stop" : 1637609212941,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.55" ]
+  } ]
+}

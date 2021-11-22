@@ -1,0 +1,71 @@
+[ {
+  "uid" : "bfb72efbd6b99459",
+  "name" : "",
+  "time" : {
+    "start" : 1637609212941,
+    "stop" : 1637609212941,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f70c81b181539097",
+  "name" : "",
+  "time" : {
+    "start" : 1637609210560,
+    "stop" : 1637609210560,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b70e794f668b3db6",
+  "name" : "Given I Launch the application",
+  "time" : {
+    "start" : 1637609210568,
+    "stop" : 1637609210570,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbab90344f4d99c",
+  "name" : "Then Verify the Url of Get Started Page",
+  "time" : {
+    "start" : 1637609212929,
+    "stop" : 1637609212941,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55b4a5bbb0af56e",
+  "name" : "Then Verify the Url of HomePage",
+  "time" : {
+    "start" : 1637609204227,
+    "stop" : 1637609210560,
+    "duration" : 6333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e92462049cb1241",
+  "name" : "When I Click on Get Started Button",
+  "time" : {
+    "start" : 1637609210570,
+    "stop" : 1637609212929,
+    "duration" : 2359
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55a63ca0a96f66f7",
+  "name" : "Given I Launch the application",
+  "time" : {
+    "start" : 1637609204180,
+    "stop" : 1637609204227,
+    "duration" : 47
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

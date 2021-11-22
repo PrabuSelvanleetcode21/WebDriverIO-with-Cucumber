@@ -1,0 +1,89 @@
+{
+  "uid" : "55b4a5bbb0af56e",
+  "name" : "Then Verify the Url of HomePage",
+  "fullName" : "Performing Login Operation: Launch the application and Verify the Url.Then Verify the Url of HomePage",
+  "historyId" : "835f20edf94d4acb90ee40df7584fb8a",
+  "time" : {
+    "start" : 1637609204227,
+    "stop" : 1637609210560,
+    "duration" : 6333
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/url",
+      "time" : {
+        "start" : 1637609204232,
+        "stop" : 1637609210555,
+        "duration" : 6323
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "15ab9d8dc0771df4",
+      "name" : "Response",
+      "source" : "15ab9d8dc0771df4.json",
+      "type" : "application/json",
+      "size" : 37
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing Login Operation: Launch the application and Verify the Url"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing Login Operation: Launch the application and Verify the Url"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Verify the Url of HomePage"
+  }, {
+    "name" : "package",
+    "value" : "Performing Login Operation: Launch the application and Verify the Url"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55b4a5bbb0af56e.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

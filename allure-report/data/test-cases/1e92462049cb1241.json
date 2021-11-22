@@ -1,0 +1,110 @@
+{
+  "uid" : "1e92462049cb1241",
+  "name" : "When I Click on Get Started Button",
+  "fullName" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url.When I Click on Get Started Button",
+  "historyId" : "f16320280c995f4d37d4bbfcaa27f11d",
+  "time" : {
+    "start" : 1637609210570,
+    "stop" : 1637609212929,
+    "duration" : 2359
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1637609210572,
+        "stop" : 1637609212842,
+        "duration" : 2270
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3ab1fd2ff42246ea",
+        "name" : "Request",
+        "source" : "3ab1fd2ff42246ea.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/b1a3d7d3-55a1-4f2b-a454-4050634829f8/click",
+      "time" : {
+        "start" : 1637609212863,
+        "stop" : 1637609212928,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "316923b9c4290083",
+      "name" : "Response",
+      "source" : "316923b9c4290083.json",
+      "type" : "application/json",
+      "size" : 83
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Click on Get Started Button"
+  }, {
+    "name" : "package",
+    "value" : "Performing Login Operation: Launch the application and click on Get Starter Button and Verify the Url"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e92462049cb1241.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}
